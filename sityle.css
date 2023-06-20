@@ -21,8 +21,9 @@ font-family: Verdana, Geneva, Tahoma, sans-serif;
      width: 96%;
      padding: 20%;
      margin: 5px;
-     display:inline-block
+     display:inline-block;
      text-align: center;
+     
      border-bottom: rgb(255, 0, 106);
 }
 .titulo{
